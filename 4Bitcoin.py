@@ -80,7 +80,7 @@ def create_main_window(settings):
     menu_def = [['&Menu', ['&Settings', 'E&xit']]]
 
     layout = [[sg.Menu(menu_def)],
-              [sg.Text('Made by mizogg.co.uk Donations 3M6L77jC3jNejsd5ZU1CVpUVngrhanb6cD', size=(40,3), font=('Comic sans ms', 13)),
+              [sg.Text('Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB', size=(40,3), font=('Comic sans ms', 13)),
                sg.Text('Total Addresses Looking for : ', size=(35,1), font=('Comic sans ms', 14)),
                sg.Text(line_count, font=('Comic sans ms', 18)), sg.Text('', size=(10,1))],
                [sg.Button('', key='mizogg', size=(10,1), font=('Helvetica', 10), button_color=(sg.theme_background_color(), sg.theme_background_color()),
