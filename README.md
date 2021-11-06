@@ -16,6 +16,6 @@ Load Your Database/List of Bitcoin Addresses to hunt for.
 
 ![image](https://user-images.githubusercontent.com/88630056/140624989-8b625c73-d733-4bcc-9622-2b075a821a0c.png)
 
-Pick Your Puzzle Range to look for Bitcoin Wallets
+Pick Your Puzzle Range to look for Bitcoin Wallets Min Range 1 Max Range 256
 
 ![image](https://user-images.githubusercontent.com/88630056/140625011-29a4f296-e752-4405-8fd0-976b002ce2a2.png)
