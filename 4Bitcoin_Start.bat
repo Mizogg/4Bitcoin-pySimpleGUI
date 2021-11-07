@@ -61,7 +61,7 @@ color 0A
 @echo.
 @call :colorEcho 07 ~~~~~~~~~~~~~~~~~~Bitcoin~Address~List~Loading~Please~Wait~~~~~~~~~~~~~~~~~~
 @echo.
-python3 4Bitcoin.py
+python 4Bitcoin.py
 
 goto :eof
 :colorEcho
