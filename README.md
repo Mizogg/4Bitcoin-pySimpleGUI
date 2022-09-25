@@ -1,3 +1,7 @@
+Updated New Version MizGUI
+
+![image](https://user-images.githubusercontent.com/88630056/192166710-08b44c1d-029c-42af-b619-2d5e4e2305d9.png)
+
 # 4Bitcoin-pySimpleGUI
 
 ![image](https://user-images.githubusercontent.com/88630056/140625447-ab946823-05c1-47a0-b9cd-856df3da48e0.png)
